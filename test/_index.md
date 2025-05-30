@@ -27,5 +27,3 @@ networks:
   reverse-proxy:
     external: true
 ```
-
-
