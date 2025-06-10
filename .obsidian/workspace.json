@@ -28,8 +28,18 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/post-2.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "post-2"
@@ -194,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4f9604552a79aba",
+  "active": "65ea3919fdb2b5bf",
   "lastOpenFiles": [
-    "content/posts/test1.md",
+    "URL_или_путь_к_картинке.md",
     "content/posts/post-2.md",
+    "content/posts/test1.md",
     "enhanced_IMG_0419.png",
     "public/uploads/2025-04-22-20.04.54.jpg"
   ]
