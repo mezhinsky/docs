@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/post-2.md",
+                "file": "content/posts/test1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "post-2"
+              "title": "test1"
             }
           },
           {
@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/post-2.md",
-                "mode": "preview",
+                "file": "URL_или_путь_к_картинке.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "post-2"
+              "title": "URL_или_путь_к_картинке"
             }
           }
         ],
@@ -119,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/post-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для post-2"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -138,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/post-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из post-2"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -204,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65ea3919fdb2b5bf",
+  "active": "a84f9cc3a4da04f3",
   "lastOpenFiles": [
+    "content/posts/post1.md",
     "URL_или_путь_к_картинке.md",
     "content/posts/post-2.md",
     "content/posts/test1.md",
