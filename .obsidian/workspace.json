@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test1.md",
+                "file": "content/posts/ZiKZ 605R.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test1"
-            }
-          },
-          {
-            "id": "eae30ace72de5348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/test1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "test1"
+              "title": "ZiKZ 605R"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/test1.md",
+                "file": "content/posts/ZiKZ 605R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для test1"
+              "title": "Обратные ссылки для ZiKZ 605R"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/test1.md",
+                "file": "content/posts/ZiKZ 605R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из test1"
+              "title": "Исходящие ссылки из ZiKZ 605R"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/test1.md",
+                "file": "content/posts/ZiKZ 605R.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура test1"
+              "title": "Структура ZiKZ 605R"
             }
           },
           {
@@ -194,14 +179,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae30ace72de5348",
+  "active": "65ea3919fdb2b5bf",
   "lastOpenFiles": [
+    "public/ZiKZ 605R/maxresdefault (1).jpg",
+    "content/posts/ZiKZ 605R.md",
+    "public/ZiKZ 605R/images.jpeg",
+    "public/ZiKZ 605R/zikz-605r-can-do-anything-absolutely-love-this-beast-v0-4ljqqpyoik2a1.jpg",
+    "public/ZiKZ 605R/390763-MudRunner-190814-LAAPatched-2021-04-20-23-52-51-219.jpg",
+    "public/ZiKZ 605R/maxresdefault.jpg",
+    "public/ZiKZ 605R/maxresdefault.jpg.crdownload",
+    "public/ZiKZ 605R/maz537-aka-zikz-605r-with-a-crane-just-like-the-game-tho-v0-45x42v259zja1.webp",
+    "public/ZiKZ 605R/maz537-aka-zikz-605r-with-a-crane-just-like-the-game-tho-v0-45x42v259zja1.webp.crdownload",
+    "public/ZiKZ 605R/Vcl_zikz_605r.webp",
+    "public/ZiKZ 605R",
+    "public/uploads/ZiKZ 605R",
+    "content/posts/типографика.md",
     "cover.png",
     "enhanced_IMG_0419 copy.png",
-    "content/posts/md test.md",
-    "content/posts/test1.md",
     "enhanced_IMG_0419.png",
-    "public/uploads/2025-04-22-20.04.54.jpg",
     "URL_или_путь_к_картинке.md",
     "content/posts/post-2.md",
     "content/posts/post1.md"

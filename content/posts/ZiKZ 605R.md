@@ -1,0 +1,13 @@
+---
+title: ZiKZ 605R
+date: 2025-06-01T14:54:00.000Z
+cover: "cover.png"
+---
+
+**ZiKZ 605R** - грузовик с колёсной формулой 8x8 [SnowRunner](https://spintires.fandom.com/ru/wiki/SnowRunner "SnowRunner"). Прототипом является реальный советский грузовик МАЗ-537.
+
+_Большегрузный восьмиколесный тягач. Изначально создавался в шестидесятых годах для нужд армии, однако применялся также в сельском хозяйстве и некоторых крупных объектов. Огромные колеса и мощный двигатель обеспечивают ZiKZ 605R устрашающую проходимость по практически любому ландшафту, а также способность тянуть практически любые грузы._
+
+
+![[../../public/ZiKZ 605R/390763-MudRunner-190814-LAAPatched-2021-04-20-23-52-51-219.jpg]]
+![[../../public/ZiKZ 605R/images.jpeg]]![[../../public/ZiKZ 605R/maxresdefault.jpg]]![[../../public/ZiKZ 605R/Vcl_zikz_605r.webp]]![[../../public/ZiKZ 605R/zikz-605r-can-do-anything-absolutely-love-this-beast-v0-4ljqqpyoik2a1.jpg]]
