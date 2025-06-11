@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/md test.md",
+                "file": "content/posts/test1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "md test"
+              "title": "test1"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/md test.md",
+                "file": "content/posts/test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для md test"
+              "title": "Обратные ссылки для test1"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/md test.md",
+                "file": "content/posts/test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из md test"
+              "title": "Исходящие ссылки из test1"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/md test.md",
+                "file": "content/posts/test1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура md test"
+              "title": "Структура test1"
             }
           },
           {
@@ -196,6 +196,8 @@
   },
   "active": "eae30ace72de5348",
   "lastOpenFiles": [
+    "cover.png",
+    "enhanced_IMG_0419 copy.png",
     "content/posts/md test.md",
     "content/posts/test1.md",
     "enhanced_IMG_0419.png",
