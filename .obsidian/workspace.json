@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c3b108eaaa5eb17",
+        "id": "a9d594149f202f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "65ea3919fdb2b5bf",
+            "id": "06b600348fe19b5e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/posts/ZiKZ 605R.md",
-                "bFile": "content/posts/ZiKZ 605R.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "content/posts/ZiKZ 605R.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ZiKZ 605R"
+              "icon": "lucide-file",
+              "title": "ZiKZ 605R"
             }
           }
         ]
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/ZiKZ 605R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для ZiKZ 605R"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/ZiKZ 605R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из ZiKZ 605R"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/posts/ZiKZ 605R.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура ZiKZ 605R"
             }
           },
           {
@@ -177,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65ea3919fdb2b5bf",
+  "active": "06b600348fe19b5e",
   "lastOpenFiles": [
     "content/posts/ZiKZ 605R.md",
     "public/ZiKZ 605R/maxresdefault (1).jpg",
