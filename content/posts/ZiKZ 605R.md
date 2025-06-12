@@ -2,6 +2,13 @@
 title: ZiKZ 605R
 date: 2025-06-01T14:54:00.000Z
 cover: cover.jpg
+autor: mezhinsky
+tags:
+  - test
+  - test2
+category:
+  - cat1
+  - cat2
 ---
 
 **ZiKZ 605R** - грузовик с колёсной формулой 8x8 [SnowRunner](https://spintires.fandom.com/ru/wiki/SnowRunner "SnowRunner"). Прототипом является реальный советский грузовик МАЗ-537.
